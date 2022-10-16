@@ -1,0 +1,12 @@
+:root {
+    --primary: #00897b;
+}
+
+nav {
+    padding: 10px;
+}
+
+.header_text {
+    min-height: 60vh;
+}
+
